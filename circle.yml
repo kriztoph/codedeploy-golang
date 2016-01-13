@@ -1,6 +1,6 @@
 deployment:
   staging:
-    branch: development
+    branch: master
     codedeploy:
       my-app:
         application_root: /
